@@ -1,0 +1,23 @@
+total 48
+drwxr-xr-x 2 root root 4096 Dec  5 11:23 .
+drwxr-xr-x 6 root root  121 Dec  5 00:52 ..
+-rwxr--r-- 1 root root   32 Dec  5 07:05 0-hello_world
+-rwxr--r-- 1 root root    0 Dec  5 10:48 10-no_more_js
+-rwxr--r-- 1 root root    0 Dec  5 10:48 11-directories
+-rwxr--r-- 1 root root    0 Dec  5 10:48 12-newest_files
+-rwxr--r-- 1 root root    0 Dec  5 10:48 13-unique
+-rwxr--r-- 1 root root    0 Dec  5 10:48 14-findthatword
+-rwxr--r-- 1 root root    0 Dec  5 10:48 15-countthatword
+-rwxr--r-- 1 root root    0 Dec  5 10:48 16-whatsnext
+-rwxr--r-- 1 root root   28 Dec  5 02:06 1-confused_smiley
+-rwxr--r-- 1 root root   28 Dec  5 02:38 2-hellofile
+-rwxr--r-- 1 root root   39 Dec  5 04:40 3-twofiles
+-rwxr--r-- 1 root root   29 Dec  5 07:23 4-lastlines
+-rwxr--r-- 1 root root   29 Dec  5 07:30 5-firstlines
+-rwxr--r-- 1 root root   36 Dec  5 08:26 6-third_line
+-rwxr--r-- 1 root root   79 Dec  5 11:05 7-file
+-rwxr--r-- 1 root root   36 Dec  5 11:23 8-cwd_state
+-rwxr--r-- 1 root root    0 Dec  5 10:46 9-duplicate_last_line
+-rw-r--r-- 1 root root   12 Dec  5 11:00 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+-rwxr--r-- 1 root root   27 Dec  5 08:26 iacta
+-rw-r--r-- 1 root root    0 Dec  5 11:25 ls_cwd_content
